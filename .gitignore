@@ -1,0 +1,8 @@
+# ignore everything...
+*
+# ...but still descend into folders
+!*/
+# ...and keep only python files
+!*.py
+# keep this file too
+!.gitignore
